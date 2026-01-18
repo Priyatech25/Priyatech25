@@ -1,5 +1,7 @@
 👋 Hi, I'm K Priya Darshini  
 
+📈 Data enthusiast | Passionate about visualizations & storytelling.
+
 🎓 CSE-Data Science student | Data Analyst Intern Aspirant  
 
 📊 Passionate about analyzing data and turning it into meaningful insights.  
