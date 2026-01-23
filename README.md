@@ -21,4 +21,4 @@ Currently building projects using Python, SQL, Excel, and Power BI.
 - Strengthening SQL and EDA skills
 
 🔗 Connect with me:
-- LinkedIn : https://www.linkedin.com/in/k-priya-darshini-07ab932a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUhjQDWn4RfWv%2FL2Sji3CKA%3D%3D
+- LinkedIn : https://in.linkedin.com/in/k-priya-darshini-07ab932a0
