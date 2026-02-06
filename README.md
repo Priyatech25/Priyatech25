@@ -89,7 +89,10 @@ Currently building projects that demonstrate analytical thinking, problem-solvin
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/k-priya-darshini-07ab932a0  
+- 💼 LinkedIn: https://www.linkedin.com/in/k-priya-darshini-07ab932a0
+- 📧 Email: kpriyadharshinircr@gmail.com  
+🌐 Portfolio: https://k-priyadarshini-portfolio.vercel.app/
+
 
 ---
 
