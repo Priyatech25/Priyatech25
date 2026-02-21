@@ -9,48 +9,76 @@ Exploratory Data Analysis • Dashboard Development • Statistical Insights •
 
 ## 👩‍💼 Professional Summary
 
-Detail-oriented Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI. Skilled in performing end-to-end data analysis including data cleaning, exploratory data analysis (EDA), statistical validation, and dashboard development.
+Detail-oriented Data Analyst with practical experience in Python, SQL, Excel, and Power BI. 
+Skilled in performing end-to-end data analysis including data cleaning, exploratory data analysis (EDA), statistical validation, and interactive dashboard development.
 
-Experienced in transforming raw datasets into structured insights through visualization and analytical reporting.
+Strong analytical mindset with the ability to transform raw datasets into structured insights through clear visualization and reporting. 
+Supported by solid foundations in Data Structures & Algorithms and full-stack development experience.
 
-Strong technical foundation supported by knowledge of Data Structures & Algorithms and full-stack development experience.
+---
+
+<h3 align="center">Technical Stack</h3>
 
 ---
 
 ## 🛠️ Technical Competencies
 
-### Programming
-Python, SQL, Java  
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,dart" />
+</p>
+
+---
 
 ### Data Analysis & Visualization
-Pandas, NumPy, Matplotlib  
-Power BI (DAX, KPI Dashboards, Slicers, Filters)  
-Microsoft Excel  
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-### Core Analytical Skills
-Data Cleaning & Preprocessing  
-Exploratory Data Analysis (EDA)  
-Statistical Analysis  
-KPI Reporting  
-Data Visualization  
-Insight Generation  
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis  
+- KPI Dashboard Development  
+- Data Visualization & Reporting  
+
+---
 
 ### Machine Learning (Foundational)
-TensorFlow  
-Supervised & Unsupervised Learning  
-Model Evaluation  
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Supervised & Unsupervised Learning  
+- Feature Engineering  
+- Model Evaluation  
+
+---
+
+### Full-Stack Development (Technical Strength)
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,flutter,firebase" />
+</p>
+
+- REST API Development  
+- CRUD Operations  
+- Authentication & API Integration  
+- Backend Data Handling  
+
+---
+
+### Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+---
 
 ### Data Structures & Algorithms
-Arrays, Strings  
-Linked Lists  
-Stacks & Queues  
-Sorting & Searching Algorithms  
-Recursion  
-Time & Space Complexity Analysis  
-
-### Tools & Technologies
-Git, GitHub  
-Docker  
+Arrays • Strings • Linked Lists • Stacks • Queues • Sorting • Recursion • Time & Space Complexity Analysis
 
 ---
 
@@ -58,33 +86,30 @@ Docker
 
 ### 📊 End-to-End Data Analysis Projects
 - Cleaned and structured datasets using Pandas and NumPy.
-- Performed exploratory data analysis to identify patterns, correlations, and anomalies.
-- Applied statistical techniques to validate analytical findings.
-- Created clear visualizations using Matplotlib to communicate insights effectively.
+- Performed exploratory data analysis to identify patterns, trends, and correlations.
+- Applied statistical techniques to validate insights.
+- Built visualizations to communicate findings clearly.
 
 ### 📈 Power BI Dashboard Projects
-- Designed interactive dashboards to track key performance indicators.
+- Designed interactive dashboards to monitor key performance indicators.
 - Implemented DAX measures for dynamic calculations.
-- Integrated slicers and filters for enhanced data exploration.
-- Structured reports for clarity and stakeholder readability.
+- Used slicers and filters for enhanced data exploration.
+- Structured dashboards for clarity and usability.
 
 ---
 
-## 💻 Technical Development Experience
-
-While primarily focused on Data Analytics, I have also built full-stack and mobile applications, strengthening my technical depth.
+## 💻 Application Development Experience
 
 ### 🌐 Full-Stack Projects
 - Developed web applications using React (Frontend) and FastAPI (Backend).
-- Built REST APIs and implemented CRUD operations.
+- Built REST APIs and implemented CRUD functionality.
 - Integrated authentication systems and structured backend logic.
-- Connected analytical modules with backend services.
 
-### 📱 Mobile Application Projects
+### 📱 Mobile Applications
 - Developed two cross-platform applications using Flutter.
-- Integrated third-party APIs for real-time data access.
+- Integrated third-party APIs for real-time data.
 - Implemented Firebase authentication and state management.
-- Designed responsive and user-focused interfaces.
+- Designed clean and responsive user interfaces.
 
 ---
 
@@ -98,9 +123,20 @@ While primarily focused on Data Analytics, I have also built full-stack and mobi
 
 ## 📚 Current Focus
 - Advanced SQL query optimization  
-- Deeper statistical analysis techniques  
-- Building real-world analytics case studies  
-- Continuous Data Structures & Algorithms practice  
+- Real-world analytics case studies  
+- Deepening statistical techniques  
+- Continuous DSA practice for technical interviews  
+
+---
+
+## 📈 GitHub Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Priyatech25&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyatech25&layout=compact"/>
+</p>
 
 ---
 
@@ -112,4 +148,4 @@ Portfolio: https://k-priyadarshini-portfolio.vercel.app/
 
 ---
 
-Open to Data Analyst and Data Science entry-level opportunities.
+Open to Data Analyst entry-level opportunities.
