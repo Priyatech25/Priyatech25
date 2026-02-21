@@ -1,86 +1,78 @@
 <h1 align="center">K Priya Darshini</h1>
-<h3 align="center">Data Analyst | Business Intelligence Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Data Analyst | Full-Stack Developer | Python | SQL | Power BI</h3>
 
 <p align="center">
-Turning Data into Actionable Insights
+Data Analysis • Dashboard Development • API Integration • Problem Solving
 </p>
 
 ---
 
-## 👩‍💼 Professional Summary
+## 👩‍💼 Profile
 
-Detail-oriented Data Analyst with strong foundations in Python, SQL, and Business Intelligence tools.  
-Experienced in performing end-to-end data analysis — from data cleaning and exploratory analysis to dashboard development and insight generation.
+Detail-oriented Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI. 
+Skilled in data cleaning, exploratory data analysis (EDA), statistical techniques, and dashboard development.
 
-Skilled at translating complex datasets into structured insights that support data-driven decision-making.  
-Additionally experienced in developing scalable web applications using modern frontend and backend technologies.
+In addition to analytics, experienced in building full-stack applications using React, FastAPI, and Flutter — integrating APIs, authentication systems, and backend logic.
+
+Strong analytical thinking combined with practical software development skills.
 
 ---
 
-## 🛠️ Technical Competencies
+## 🛠️ Technical Skills
 
-**Programming Languages:**  
-Python, Java, Dart, SQL  
+### Programming Languages
+Python, SQL, Java, Dart  
 
-**Data Analysis & Business Intelligence:**  
-Pandas, NumPy, Matplotlib, Power BI, Microsoft Excel  
-Exploratory Data Analysis (EDA)  
+### Data Analysis & Visualization
+Pandas, NumPy, Matplotlib  
+Power BI (DAX, Slicers, KPI Dashboards)  
+Microsoft Excel  
 Data Cleaning & Preprocessing  
-KPI Reporting & Dashboard Development  
+Exploratory Data Analysis (EDA)  
 Statistical Analysis  
 
-**Machine Learning:**  
+### Machine Learning (Foundational)
 TensorFlow  
 Supervised & Unsupervised Learning  
 Feature Engineering  
 Model Evaluation  
 
-**Web & Application Development:**  
-React.js, FastAPI, Flutter  
+### Full-Stack Development
+Frontend: React.js, Flutter  
+Backend: FastAPI (Python)  
 REST API Development  
 CRUD Operations  
 Authentication & API Integration  
+State Management & UI Design  
 
-**Tools & Technologies:**  
-Git, GitHub, Docker  
-
-**Core Computer Science & DSA:**  
-Arrays, Strings, Linked Lists  
+### Data Structures & Algorithms
+Arrays, Strings  
+Linked Lists  
 Stacks & Queues  
 Sorting & Searching Algorithms  
-Recursion & Basic Dynamic Programming  
+Recursion  
 Time & Space Complexity Analysis  
 
+### Tools & Technologies
+Git, GitHub  
+Docker  
+Version Control & Collaboration  
+
 ---
 
-## 🚀 Selected Work
+## 🚀 Projects
 
-### Data Analytics Projects
-- Conducted exploratory data analysis on structured datasets using Pandas and NumPy.
-- Identified patterns, trends, and performance indicators to support decision-making.
-- Built visual reports and dashboards to communicate insights effectively.
-- Applied statistical techniques to validate findings.
+### 📊 Data Analytics Projects
+- Performed end-to-end data analysis using Pandas and NumPy.
+- Conducted exploratory data analysis to identify trends and patterns.
+- Built visualizations and structured reports to communicate insights.
+- Developed Power BI dashboards with DAX measures and interactive filters.
 
-### Power BI Dashboards
-- Designed interactive dashboards focused on business KPIs.
-- Implemented DAX calculations, slicers, and filters.
-- Improved data presentation clarity for non-technical stakeholders.
-
-### Web & Application Projects
+### 🌐 Full-Stack Projects
 - Developed cross-platform applications using Flutter with real-time API integration.
-- Built React + FastAPI based analytical dashboards.
-- Implemented secure authentication and structured backend logic.
-
----
-
-## 📈 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priyatech25&show_icons=true&theme=default"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyatech25&layout=compact&theme=default"/>
-</p>
+- Built React + FastAPI applications with structured backend architecture.
+- Implemented authentication systems and CRUD operations.
+- Designed user-focused interfaces with clean UI/UX structure.
 
 ---
 
@@ -93,14 +85,25 @@ Time & Space Complexity Analysis
 ---
 
 ## 📚 Current Focus
-- Advanced data analytics projects  
-- Business-focused dashboard development  
-- Strengthening SQL optimization skills  
-- Consistent Data Structures & Algorithms practice  
+- Advanced SQL query optimization  
+- Building complete analytics pipelines  
+- Scalable full-stack application architecture  
+- Consistent DSA practice for technical interviews  
 
 ---
 
-## 🤝 Connect
+## 📈 GitHub Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Priyatech25&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyatech25&layout=compact"/>
+</p>
+
+---
+
+## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/k-priya-darshini-07ab932a0  
 Email: kpriyadharshinircr@gmail.com  
@@ -108,4 +111,4 @@ Portfolio: https://k-priyadarshini-portfolio.vercel.app/
 
 ---
 
-📍 Open to Data Analyst, Business Analyst, and Entry-Level Developer opportunities.
+Open to Data Analyst, Business Intelligence, and Entry-Level Developer opportunities.
