@@ -1,49 +1,44 @@
 <h1 align="center">K Priya Darshini</h1>
-<h3 align="center">Data Analyst | Full-Stack Developer | Python | SQL | Power BI</h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
-Data Analysis • Dashboard Development • API Integration • Problem Solving
+Exploratory Data Analysis • Dashboard Development • Statistical Insights • Problem Solving
 </p>
 
 ---
 
-## 👩‍💼 Profile
+## 👩‍💼 Professional Summary
 
-Detail-oriented Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI. 
-Skilled in data cleaning, exploratory data analysis (EDA), statistical techniques, and dashboard development.
+Detail-oriented Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI. Skilled in performing end-to-end data analysis including data cleaning, exploratory data analysis (EDA), statistical validation, and dashboard development.
 
-In addition to analytics, experienced in building full-stack applications using React, FastAPI, and Flutter — integrating APIs, authentication systems, and backend logic.
+Experienced in transforming raw datasets into structured insights through visualization and analytical reporting.
 
-Strong analytical thinking combined with practical software development skills.
+Strong technical foundation supported by knowledge of Data Structures & Algorithms and full-stack development experience.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Competencies
 
-### Programming Languages
-Python, SQL, Java, Dart  
+### Programming
+Python, SQL, Java  
 
 ### Data Analysis & Visualization
 Pandas, NumPy, Matplotlib  
-Power BI (DAX, Slicers, KPI Dashboards)  
+Power BI (DAX, KPI Dashboards, Slicers, Filters)  
 Microsoft Excel  
+
+### Core Analytical Skills
 Data Cleaning & Preprocessing  
 Exploratory Data Analysis (EDA)  
 Statistical Analysis  
+KPI Reporting  
+Data Visualization  
+Insight Generation  
 
 ### Machine Learning (Foundational)
 TensorFlow  
 Supervised & Unsupervised Learning  
-Feature Engineering  
 Model Evaluation  
-
-### Full-Stack Development
-Frontend: React.js, Flutter  
-Backend: FastAPI (Python)  
-REST API Development  
-CRUD Operations  
-Authentication & API Integration  
-State Management & UI Design  
 
 ### Data Structures & Algorithms
 Arrays, Strings  
@@ -56,23 +51,40 @@ Time & Space Complexity Analysis
 ### Tools & Technologies
 Git, GitHub  
 Docker  
-Version Control & Collaboration  
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects
 
-### 📊 Data Analytics Projects
-- Performed end-to-end data analysis using Pandas and NumPy.
-- Conducted exploratory data analysis to identify trends and patterns.
-- Built visualizations and structured reports to communicate insights.
-- Developed Power BI dashboards with DAX measures and interactive filters.
+### 📊 End-to-End Data Analysis Projects
+- Cleaned and structured datasets using Pandas and NumPy.
+- Performed exploratory data analysis to identify patterns, correlations, and anomalies.
+- Applied statistical techniques to validate analytical findings.
+- Created clear visualizations using Matplotlib to communicate insights effectively.
+
+### 📈 Power BI Dashboard Projects
+- Designed interactive dashboards to track key performance indicators.
+- Implemented DAX measures for dynamic calculations.
+- Integrated slicers and filters for enhanced data exploration.
+- Structured reports for clarity and stakeholder readability.
+
+---
+
+## 💻 Technical Development Experience
+
+While primarily focused on Data Analytics, I have also built full-stack and mobile applications, strengthening my technical depth.
 
 ### 🌐 Full-Stack Projects
-- Developed cross-platform applications using Flutter with real-time API integration.
-- Built React + FastAPI applications with structured backend architecture.
-- Implemented authentication systems and CRUD operations.
-- Designed user-focused interfaces with clean UI/UX structure.
+- Developed web applications using React (Frontend) and FastAPI (Backend).
+- Built REST APIs and implemented CRUD operations.
+- Integrated authentication systems and structured backend logic.
+- Connected analytical modules with backend services.
+
+### 📱 Mobile Application Projects
+- Developed two cross-platform applications using Flutter.
+- Integrated third-party APIs for real-time data access.
+- Implemented Firebase authentication and state management.
+- Designed responsive and user-focused interfaces.
 
 ---
 
@@ -86,9 +98,9 @@ Version Control & Collaboration
 
 ## 📚 Current Focus
 - Advanced SQL query optimization  
-- Building complete analytics pipelines  
-- Scalable full-stack application architecture  
-- Consistent DSA practice for technical interviews  
+- Deeper statistical analysis techniques  
+- Building real-world analytics case studies  
+- Continuous Data Structures & Algorithms practice  
 
 ---
 
@@ -111,4 +123,4 @@ Portfolio: https://k-priyadarshini-portfolio.vercel.app/
 
 ---
 
-Open to Data Analyst, Business Intelligence, and Entry-Level Developer opportunities.
+Open to Data Analyst and Data Science entry-level opportunities.
