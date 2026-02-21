@@ -21,35 +21,37 @@ Supported by solid foundations in Data Structures & Algorithms and full-stack de
 
 ---
 
+
 ## 🛠️ Technical Competencies
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,dart" />
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="40"/> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=dart" height="40"/> Dart
 </p>
 
 ---
 
 ### Data Analysis & Visualization
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Pandas & NumPy &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" height="28"/> Matplotlib &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" height="28"/> Power BI &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="28"/> Excel
 </p>
 
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Statistical Analysis  
 - KPI Dashboard Development  
-- Data Visualization & Reporting  
 
 ---
 
 ### Machine Learning (Foundational)
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> TensorFlow
 </p>
 
 - Supervised & Unsupervised Learning  
@@ -58,27 +60,31 @@ Supported by solid foundations in Data Structures & Algorithms and full-stack de
 
 ---
 
-### Full-Stack Development (Technical Strength)
+### Full-Stack Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,fastapi,flutter,firebase" />
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter" height="40"/> Flutter &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="40"/> Firebase
 </p>
 
 - REST API Development  
 - CRUD Operations  
 - Authentication & API Integration  
-- Backend Data Handling  
 
 ---
 
 ### Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker
 </p>
 
 ---
 
 ### Data Structures & Algorithms
-Arrays • Strings • Linked Lists • Stacks • Queues • Sorting • Recursion • Time & Space Complexity Analysis
+Arrays • Strings • Linked Lists • Stacks • Queues • Sorting • Recursion • Time & Space Complexity
 
 ---
 
