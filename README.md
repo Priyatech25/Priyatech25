@@ -25,21 +25,21 @@ Supported by a solid foundation in Data Structures & Algorithms and practical fu
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/> <b>Python</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="40"/> <b>Java</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> <b>SQL</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=dart" height="40"/> <b>Dart</b>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="40"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=dart" height="40"/> 
 </p>
 
 ---
 
 ### Data Analysis & Visualization
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="28"/> <b>Pandas</b> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="28"/> <b>NumPy</b> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" height="28"/> <b>Matplotlib</b> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" height="28"/> <b>Power BI</b> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="28"/> <b>Excel</b>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="28"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="28"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" height="28"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" height="28"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="28"/> 
 </p>
 
 - Data Cleaning & Preprocessing  
@@ -52,7 +52,7 @@ Supported by a solid foundation in Data Structures & Algorithms and practical fu
 
 ### Machine Learning (Foundational)
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> <b>TensorFlow</b>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> 
 </p>
 
 - Supervised & Unsupervised Learning  
@@ -63,10 +63,10 @@ Supported by a solid foundation in Data Structures & Algorithms and practical fu
 
 ### Full-Stack Development (Technical Strength)
 <p>
-<img src="https://skillicons.dev/icons?i=react" height="40"/> <b>React</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> <b>FastAPI</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flutter" height="40"/> <b>Flutter</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase" height="40"/> <b>Firebase</b>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter" height="40"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="40"/> 
 </p>
 
 - REST API Development  
@@ -78,9 +78,9 @@ Supported by a solid foundation in Data Structures & Algorithms and practical fu
 
 ### Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="40"/> <b>Docker</b>
+<img src="https://skillicons.dev/icons?i=git" height="40"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="40"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="40"/> 
 </p>
 
 ---
