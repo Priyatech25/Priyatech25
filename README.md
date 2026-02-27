@@ -137,17 +137,6 @@ Arrays • Strings • Linked Lists • Stacks • Queues • Sorting Algorithms
 
 ---
 
-## 📈 GitHub Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priyatech25&show_icons=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyatech25&layout=compact"/>
-</p>
-
----
-
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/k-priya-darshini-07ab932a0  
